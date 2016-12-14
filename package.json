@@ -1,0 +1,19 @@
+{
+  "name": "the_band",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5l5llog/the_band.git"
+  },
+  "author": "hileni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5l5llog/the_band/issues"
+  },
+  "homepage": "https://github.com/5l5llog/the_band#readme"
+}
